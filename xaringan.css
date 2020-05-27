@@ -1,0 +1,36 @@
+@import url("//fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap");
+
+.left-column {
+    color: #FEC613;
+}
+
+
+img {
+  max-width: 100%;
+
+}
+
+body {
+  font-family: 'Baloo Bhaina 2';
+    position: relative;
+    left: 0.55in;
+    margin: auto 0.55in 0.3in auto;
+    line-height: 1.4;
+
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  position: relative;
+  left: 0.55in;
+  margin: auto 0.55in 0.3in auto;
+  line-height: 1.2;
+}
+
+
+
+
+
